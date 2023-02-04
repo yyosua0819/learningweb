@@ -1,0 +1,33 @@
+h1, h3, p {
+    text-align: center;
+}
+
+h1 {
+    color: burlywood;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+p {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+a:link{
+    color: bisque;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: forestgreen;
+}
+
+a:active{
+    color: cornflowerblue;
+}
